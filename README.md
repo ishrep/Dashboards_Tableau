@@ -7,9 +7,9 @@ The dashboard is focused specifically to generate insights regarding performance
 *	What if Analysis used to predict ranking of after varying factors
 *	New score calculated using NIRF’s factors’ weightage
 *	Calculated Fields:
-* Item 1
-* Item 2
-* Item 3
-    * Item 3a
-    * Item 3b
-    * Item 3c
+    * Score Actual
+    * M_Teaching, Learning And resources
+    * M_Outreach
+    * M_Research, Professional Practice & Collaborative Performance 
+    * M_Graduation Outcomes 
+    * M_Perception
